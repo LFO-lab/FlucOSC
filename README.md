@@ -12,6 +12,6 @@ FlucOSC is a MaxForLive device designed to extract and transmit live audio descr
 
 ## Credits
 
-FlucOSC was initially developed for the work *Visions Couleurs* as part of the research-creation project *Notation Performative* led by Nicolas Bernier. 
+FlucOSC was initially developed by [Jean-Philippe Jullin](https://github.com/jpjullin) for the work *Visions Couleurs* as part of the research-creation project *Notation Performative* led by Nicolas Bernier. 
 
 For more information, visit: [https://lfo-lab.ca/notation-performative](https://lfo-lab.ca/notation-performative)
