@@ -1,6 +1,6 @@
 # FlucOSC
 
-FlucOSC is a MaxForLive device designed to extract and transmit live audio descriptors via OSC (Open Sound Control). This tool facilitates seamless integration with external software and systems, enabling real-time analysis and creative applications.
+FlucOSC is a MaxForLive device designed to extract and transmit live audio descriptors via OSC (Open Sound Control). This tool facilitates integration with external software and systems, enabling real-time analysis and creative applications.
 
 ![Device](device.png)
 
